@@ -70,7 +70,7 @@ async def unknown_command(message: Message):
         'Click on the raccoon to collect RCCoin. Grow your '
         'businesses — buy, upgrade, and earn more. Complete '
         'missions to unlock new opportunities and speed up your '
-        'progress. 💸🤑\n\n'
+        'progress. 🌚🚀\n\n'
         'Invite your friends — it’s more fun and rewarding together! '
         'Team up, take on challenges, and rise to the top of Empire '
         'Rush as a group! 🔥💫\n\n',
